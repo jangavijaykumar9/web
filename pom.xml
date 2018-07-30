@@ -5,10 +5,17 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>vijay</groupId>
+<<<<<<< HEAD
   <artifactId>minnu</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>minnu</name>
+=======
+  <artifactId>application</artifactId>
+  <version>1.0-SNAPSHOT</version>
+
+  <name>application</name>
+>>>>>>> e61c5219b2b4d90fd15d0d856ce3c3c8ef055a8f
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

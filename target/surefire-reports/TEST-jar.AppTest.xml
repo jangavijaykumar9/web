@@ -1,12 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="jar.AppTest" time="0.097" tests="1" errors="0" skipped="0" failures="0">
+=======
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="jar.AppTest" time="0.126" tests="1" errors="0" skipped="0" failures="0">
+>>>>>>> e61c5219b2b4d90fd15d0d856ce3c3c8ef055a8f
   <properties>
     <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
     <property name="file.encoding.pkg" value="sun.io"/>
     <property name="java.specification.version" value="1.8"/>
     <property name="sun.cpu.isalist" value=""/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
+<<<<<<< HEAD
     <property name="java.class.path" value="/root/minnu/target/test-classes:/root/minnu/target/classes:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+=======
+    <property name="java.class.path" value="/root/application/target/test-classes:/root/application/target/classes:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+>>>>>>> e61c5219b2b4d90fd15d0d856ce3c3c8ef055a8f
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
@@ -16,20 +24,33 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/home/ubuntu/jdk1.8.0_181/jre/lib/amd64"/>
+<<<<<<< HEAD
     <property name="sun.java.command" value="/root/minnu/target/surefire/surefirebooter5991539202145820571.jar /root/minnu/target/surefire 2018-07-30T20-10-02_873-jvmRun1 surefire3611167988491142874tmp surefire_09089899469215962741tmp"/>
     <property name="surefire.test.class.path" value="/root/minnu/target/test-classes:/root/minnu/target/classes:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+=======
+    <property name="sun.java.command" value="/root/application/target/surefire/surefirebooter1424950658529935328.jar /root/application/target/surefire 2018-07-30T20-03-23_019-jvmRun1 surefire5255937489375399471tmp surefire_04947809010559761988tmp"/>
+    <property name="surefire.test.class.path" value="/root/application/target/test-classes:/root/application/target/classes:/root/.m2/repository/junit/junit/4.11/junit-4.11.jar:/root/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar:"/>
+>>>>>>> e61c5219b2b4d90fd15d0d856ce3c3c8ef055a8f
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/root"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="java.home" value="/home/ubuntu/jdk1.8.0_181/jre"/>
+<<<<<<< HEAD
     <property name="basedir" value="/root/minnu"/>
+=======
+    <property name="basedir" value="/root/application"/>
+>>>>>>> e61c5219b2b4d90fd15d0d856ce3c3c8ef055a8f
     <property name="file.separator" value="/"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+<<<<<<< HEAD
     <property name="surefire.real.class.path" value="/root/minnu/target/surefire/surefirebooter5991539202145820571.jar"/>
+=======
+    <property name="surefire.real.class.path" value="/root/application/target/surefire/surefirebooter1424950658529935328.jar"/>
+>>>>>>> e61c5219b2b4d90fd15d0d856ce3c3c8ef055a8f
     <property name="sun.boot.class.path" value="/home/ubuntu/jdk1.8.0_181/jre/lib/resources.jar:/home/ubuntu/jdk1.8.0_181/jre/lib/rt.jar:/home/ubuntu/jdk1.8.0_181/jre/lib/sunrsasign.jar:/home/ubuntu/jdk1.8.0_181/jre/lib/jsse.jar:/home/ubuntu/jdk1.8.0_181/jre/lib/jce.jar:/home/ubuntu/jdk1.8.0_181/jre/lib/charsets.jar:/home/ubuntu/jdk1.8.0_181/jre/lib/jfr.jar:/home/ubuntu/jdk1.8.0_181/jre/classes"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="1.8.0_181-b13"/>
@@ -44,7 +65,11 @@
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="java.io.tmpdir" value="/tmp"/>
     <property name="java.version" value="1.8.0_181"/>
+<<<<<<< HEAD
     <property name="user.dir" value="/root/minnu"/>
+=======
+    <property name="user.dir" value="/root/application"/>
+>>>>>>> e61c5219b2b4d90fd15d0d856ce3c3c8ef055a8f
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
